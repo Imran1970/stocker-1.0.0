@@ -1,0 +1,45 @@
+Key Features
+
+Bootstrap 5.0.0
+Burger Menu
+Sticky Top Navigation Bar
+Breadcrumbs
+Dropdown Menu Bar
+Hero Header
+Hero Image
+Header Carousel
+Animated Background
+On-Load Animation
+Sliders
+404 Page
+Video Player Button
+Call-to-Action Buttons
+Back-to-Top Button
+Accordions
+Geolocation
+Contact Form UI
+FAQ Sections
+Testimonial Carousel
+100% Responsive
+Developer-Friendly
+SEO-Optimized
+Sass-supported Codebase
+Cross-Browser Compatible
+ 
+
+In The Box
+11 HTML Page
+HTML and CSS
+Library and Plugins
+All Demo Pages
+JavaScript Source Files
+ 
+
+Library & plugins
+Bootstrap 5
+jQuery
+Lightbox
+Owl Carousel
+Font Awesome
+Google Fonts
+Google Maps
